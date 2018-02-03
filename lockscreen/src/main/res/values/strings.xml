@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="pinlock_title">Masukkan Pin Anda</string>
+    <string name="pinlock_settitle">Buat Pin Anda</string>
+    <string name="pinlock_firsttry">Wrong Pin Code: First Try</string>
+    <string name="pinlock_secondtry">Wrong Pin Code: Second Try</string>
+    <string name="pinlock_wrongpin">Pin Salah</string>
+    <string name="pinlock_secondPin">Masukkan Pin Lagi</string>
+    <string name="pinlock_tryagain">Pin Tidak Sama</string>
+    <string name="pinlock_fingerprint">Gunakan Sidik Jari Anda</string>
+</resources>
